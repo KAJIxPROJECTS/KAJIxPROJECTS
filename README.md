@@ -98,12 +98,14 @@ vibe: Experimental & Always Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KAJIxPROJECTS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAJIxPROJECTS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAJIxPROJECTS&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAJIxPROJECTS&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAJIxPROJECTS&theme=tokyonight" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAJIxPROJECTS&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=667EEA" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=KAJIxPROJECTS&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=667EEA" width="500"/>
 
 </div>
 
